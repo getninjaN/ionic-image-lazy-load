@@ -118,7 +118,7 @@ angular.module('ionicLazyLoad')
                         loadImage();
                         deregistration();
                     }
-                }, 500);
+                }, 750);
             }
         };
     }]);
